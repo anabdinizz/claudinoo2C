@@ -6,8 +6,55 @@ body{background-color: blue;
     justify-items: center;
     text-align: center;
     text-align: center;text-align: center;
-}
+} .imagem-cabecalho{width: 200px;}
 
-.imagem-cabecalho{
-width: 200px;
-}
+.titulo-cabecalho
+{display: inline-block;
+margin: 0 16px;
+padding: 100px 0;
+font-size: 40px;}
+
+.cabecalho
+{background-color: aquamarine;
+color: brown;
+display: flex;
+justify-content: space-around;
+padding: auto;}
+
+.cabecalho-item
+{display: inline-block;
+margin: 0 16px ;
+padding: 24px 0;
+font-size: 24px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
